@@ -104,7 +104,7 @@ textarea {
 }
 
 .header {
-  margin-top: -40px;
+  margin-top: -90px;
   margin-left: auto;
   margin-right: auto;
   max-width: 70%;
@@ -112,7 +112,7 @@ textarea {
 }
 
 .wrapper {
-  margin-top: -40px;
+  margin-top: -70px;
   margin-left: auto;
   margin-right: auto;
   max-width: 70%;
@@ -123,6 +123,11 @@ p {
   font-family: 'Didact Gothic', sans-serif;
   text-align: center;
   color: #fff;
+}
+
+iframe {
+  margin-left: auto;
+  margin-right: auto;
 }
 
 
